@@ -16,7 +16,7 @@ export default function AboutUs() {
       <div className="policy-content glass">
         <h2>Our Story</h2>
         <p>
-          Founded in Wilkes-Barre, PA, Bubbly Scent was created with a singular vision: to transform everyday workspaces and living areas into environments of ultimate comfort and productivity. We believe that the right furniture is not just functional—it's an investment in your well-being.
+          BUBBLY SCENT, operated by DUCK WORLD LLC and based in St. Petersburg, FL, was created with a singular vision: to transform everyday workspaces and living areas into environments of ultimate comfort and productivity. We believe that the right furniture is not just functional—it's an investment in your well-being.
         </p>
 
         <h2>Our Products</h2>
@@ -39,9 +39,10 @@ export default function AboutUs() {
           We love hearing from our customers. Whether you need help selecting the perfect desk or have a question about your order, our team is here for you.
         </p>
         <p>
-          <strong>Bubbly Scent</strong><br />
-          24 SOUTH RIVER STREET<br />
-          WILKES-BARRE, PA 18702<br />
+          <strong>BUBBLY SCENT</strong><br />
+          Operated by DUCK WORLD LLC.<br />
+          7901 4TH ST N STE 300<br />
+          ST. PETERSBURG, FL 33702<br />
           Phone: (646) 256-3687<br />
           Email: cs@bubblyscent.com
         </p>

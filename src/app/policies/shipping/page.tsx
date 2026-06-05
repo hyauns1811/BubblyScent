@@ -45,9 +45,10 @@ export default function ShippingPolicy() {
         <h2>Contact Us</h2>
         <p>If you have any further questions, please don't hesitate to contact us at:</p>
         <p>
-          <strong>Bubbly Scent</strong><br />
-          24 SOUTH RIVER STREET<br />
-          WILKES-BARRE, PA 18702<br />
+          <strong>BUBBLY SCENT</strong><br />
+          Operated by DUCK WORLD LLC.<br />
+          7901 4TH ST N STE 300<br />
+          ST. PETERSBURG, FL 33702<br />
           Phone: (646) 256-3687<br />
           Email: cs@bubblyscent.com
         </p>

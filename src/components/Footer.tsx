@@ -11,12 +11,15 @@ export default function Footer() {
             <Link href="/" style={{ display: 'inline-block', marginBottom: '1rem' }}>
               <Image src="/Logo.png" alt="Bubbly Scent Logo" width={180} height={48} style={{ objectFit: 'contain' }} />
             </Link>
-            <p className="text-sm opacity-80 mb-6">
+            <p className="text-sm opacity-80 mb-4">
               Elevating workspaces and comfort with premium standing desks, ergonomic chairs, and folding beds.
             </p>
+            <p className="text-xs opacity-80 mb-4 font-semibold">
+              BUBBLY SCENT Operated by DUCK WORLD LLC.
+            </p>
             <div className="contact-info text-sm opacity-80">
-              <p>24 SOUTH RIVER STREET</p>
-              <p>WILKES-BARRE, PA 18702</p>
+              <p>7901 4TH ST N STE 300</p>
+              <p>ST. PETERSBURG, FL 33702</p>
               <p>Email: cs@bubblyscent.com</p>
               <p>Phone: (646) 256-3687</p>
             </div>
@@ -52,7 +55,7 @@ export default function Footer() {
         </div>
         
         <div className="footer-bottom">
-          <p>&copy; {new Date().getFullYear()} Bubbly Scent. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} BUBBLY SCENT. Operated by DUCK WORLD LLC. All rights reserved.</p>
           <div className="payment-methods">
             <Image 
               src="/paypal-icon.png" 

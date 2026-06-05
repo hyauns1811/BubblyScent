@@ -17,7 +17,7 @@ export default function PrivacyPolicy() {
       <div className="policy-content glass">
         <h2>Introduction</h2>
         <p>
-          Bubbly Scent ("we," "us," or "our") respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website and tell you about your privacy rights.
+          BUBBLY SCENT ("we," "us," or "our"), operated by DUCK WORLD LLC, respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website and tell you about your privacy rights.
         </p>
 
         <h2>Information We Collect</h2>
@@ -45,9 +45,10 @@ export default function PrivacyPolicy() {
         <h2>Contact Details</h2>
         <p>If you have any questions about this privacy policy or our privacy practices, please contact us at:</p>
         <p>
-          <strong>Bubbly Scent</strong><br />
-          24 SOUTH RIVER STREET<br />
-          WILKES-BARRE, PA 18702<br />
+          <strong>BUBBLY SCENT</strong><br />
+          Operated by DUCK WORLD LLC.<br />
+          7901 4TH ST N STE 300<br />
+          ST. PETERSBURG, FL 33702<br />
           Phone: (646) 256-3687<br />
           Email: cs@bubblyscent.com
         </p>

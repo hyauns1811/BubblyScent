@@ -17,7 +17,7 @@ export default function TermsOfService() {
       <div className="policy-content glass">
         <h2>Overview</h2>
         <p>
-          This website is operated by Bubbly Scent. Throughout the site, the terms “we”, “us” and “our” refer to Bubbly Scent. Bubbly Scent offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
+          This website is operated by BUBBLY SCENT, operated by DUCK WORLD LLC. Throughout the site, the terms “we”, “us” and “our” refer to BUBBLY SCENT. BUBBLY SCENT offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.
         </p>
 
         <h2>Online Store Terms</h2>
@@ -44,9 +44,10 @@ export default function TermsOfService() {
         <h2>Contact Information</h2>
         <p>Questions about the Terms of Service should be sent to us at:</p>
         <p>
-          <strong>Bubbly Scent</strong><br />
-          24 SOUTH RIVER STREET<br />
-          WILKES-BARRE, PA 18702<br />
+          <strong>BUBBLY SCENT</strong><br />
+          Operated by DUCK WORLD LLC.<br />
+          7901 4TH ST N STE 300<br />
+          ST. PETERSBURG, FL 33702<br />
           Phone: (646) 256-3687<br />
           Email: cs@bubblyscent.com
         </p>
